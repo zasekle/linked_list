@@ -4,13 +4,11 @@
 
 #pragma once
 
-
 #include <cstddef>
 #include <memory>
 #include <sstream>
 #include <iostream>
 
-//TODO: template this
 template <typename T>
 struct CustomList {
 
